@@ -39,3 +39,24 @@
 
 # debug information files
 *.dwo
+
+# --- Basura de Visual Studio ---
+.vs/
+x64
+Debug/
+Release/
+ipch/
+*.aps
+*.pdb
+*.exe
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Archivos temporales de compilacion ---
+
+obj/
+bin/
