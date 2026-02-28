@@ -6,3 +6,4 @@ Ejercicio 3: Operaciones con matrices 3x3 (Sumas de filas, columnas y diagonal).
 Ejercicio 4: Procesamiento de nombres completos (Strings, vocales y mayúsculas).
 
 Estudiante: Kevin Francisco Rojas Sanchez.
+Universidad Nacional de Costa Rica.
