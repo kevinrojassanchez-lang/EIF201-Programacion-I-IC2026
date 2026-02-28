@@ -13,7 +13,7 @@ void llenarArreglo(int arr[], int size)
 int encontrarMayor(int arr[], int size)
 {
 	int mayor = arr[0];
-	// Encontrar el mayor
+	// Encontrar mayor
 	for (int i = 1; i < size; ++i)
 	{
 		if (arr[i] > mayor)
