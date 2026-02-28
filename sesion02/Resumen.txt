@@ -1,0 +1,8 @@
+Portafolio de Ejercicios - Sesión 02
+------------------------------------
+Ejercicio 1: Procesamiento de datos estadísticos.
+Ejercicio 2: Inversión de arreglos (Orden inverso).
+Ejercicio 3: Operaciones con matrices 3x3 (Sumas de filas, columnas y diagonal).
+Ejercicio 4: Procesamiento de nombres completos (Strings, vocales y mayúsculas).
+
+Estudiante: Kevin Francisco Rojas Sanchez.
